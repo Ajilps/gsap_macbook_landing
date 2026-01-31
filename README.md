@@ -34,7 +34,7 @@ A stunning, interactive landing page for the MacBook Pro, featuring smooth anima
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ajilps/gsap_macbook_landing.git
 cd apple
 ```
 
