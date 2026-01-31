@@ -1,3 +1,5 @@
+![alt text](screenshot.png)
+
 # MacBook Pro Landing Page
 
 A stunning, interactive landing page for the MacBook Pro, featuring smooth animations, 3D product visualization, and scroll-triggered effects. Built with modern web technologies to deliver a premium user experience.
